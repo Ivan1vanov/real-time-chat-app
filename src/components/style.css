@@ -1,0 +1,57 @@
+.btnComponent {
+    padding: 15px 60px;
+    border: none;
+    cursor: pointer;
+    background-color: rgba(230, 56, 163, 0.452);
+    color: #fff;
+    transition: 0.7s;
+}
+
+.btnComponent:hover {
+    transition: 0.7s;
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+.btnSend {
+    background-color: rgba(38, 216, 106, 0.678);
+    padding: 10px 30px;
+    border: none;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.btnSend:hover {
+    transition: 0.7s;
+    background-color: rgb(0, 255, 98)
+}
+
+.btnLogin {
+    background-color: rgba(38, 216, 106, 0.678);
+    display: flex;
+    padding: 15px 30px;
+    border: none;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: #fff;
+    cursor: pointer;
+    align-items: center;
+    align-content: center;
+    transition: 0.7s;
+}
+
+.btnLogin:hover {
+    transition: 0.7s;
+    background-color: rgb(0, 255, 98)
+}
+
+.textLogin {
+    padding: 10px
+}
